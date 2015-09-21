@@ -56,6 +56,12 @@ h6 {
     font-weight: 700;
 }
 
+.img-services {
+    max-width: 100%;
+    min-width: 100px;
+    height: auto;
+}
+
 .img-centered {
     margin: 0 auto;
 }
@@ -726,7 +732,7 @@ footer span.copyright {
     text-transform: uppercase;
     text-transform: none;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    line-height: 40px;
+    line-height: 15px;
 }
 
 footer ul.quicklinks {
